@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bohdi4556.github.io/sitemap.xml
